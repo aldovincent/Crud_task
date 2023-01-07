@@ -1,0 +1,23 @@
+*{
+    margin:0;
+    padding:0;
+}
+table, th, td {
+    border: 1px solid black;
+    background-color: cyan;
+  }
+
+  @media (min-width: 1025px) {
+    .h-custom {
+    height: 100vh !important;
+    }
+    }
+    
+    th, td {
+        padding:25px;
+
+      }
+
+.btn-outline-dark{
+    padding:10px;
+}
